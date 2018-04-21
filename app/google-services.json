@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171888351727",
+    "firebase_url": "https://teamchatdemo-d4923.firebaseio.com",
+    "project_id": "teamchatdemo-d4923",
+    "storage_bucket": "teamchatdemo-d4923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171888351727:android:9fb5858f1d4d258f",
+        "android_client_info": {
+          "package_name": "com.sevennodes.chat.teamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171888351727-3r1vlhgqshdbklr44h9a7qrn4qvvefro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sevennodes.chat.teamchat",
+            "certificate_hash": "0d88cef82f4840f4f4cb30e6c412adf3f2e25e0c"
+          }
+        },
+        {
+          "client_id": "171888351727-vke8q5rbhjvlqc2eeuthm0afm4abbqb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsITRNVS2XkKvxQ--Pd81QFVXauPMhok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171888351727-vke8q5rbhjvlqc2eeuthm0afm4abbqb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
